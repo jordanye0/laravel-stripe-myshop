@@ -13,7 +13,7 @@ use Symfony\Component\Yaml\Yaml;
  * Class ThemeController.
  * @category AppControllers
  *
- * @author acev <aasisvinayak@gmail.com>
+ * @author jordanye0 <jordanyeo.work@gmail.com>
  * @license https://github.com/aasisvinayak/flymyshop/blob/master/LICENSE  GPL-3.0
  *
  * @link https://github.com/aasisvinayak/flymyshop

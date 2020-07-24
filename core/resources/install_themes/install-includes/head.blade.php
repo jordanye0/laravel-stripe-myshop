@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta name="description" content="">
-<meta name="author" content="acev">
+<meta name="author" content="jordanye0">
 
 <title>{{config('flymyshop.shopName')}}</title>
 {{--<link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cerulean/bootstrap.min.css" rel="stylesheet" integrity="sha384-zF4BRsG/fLiTGfR9QL82DrilZxrwgY/+du4p/c7J72zZj+FLYq4zY00RylP9ZjiT" crossorigin="anonymous">--}}

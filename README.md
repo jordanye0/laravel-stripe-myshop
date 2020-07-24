@@ -148,4 +148,4 @@ Demo (coming soon)
 
 #Contributors
 
-[Aasis Vinayak (acev)](https://aasisvinayak.com)
+[Aasis Vinayak (jordanye0)](https://aasisvinayak.com)

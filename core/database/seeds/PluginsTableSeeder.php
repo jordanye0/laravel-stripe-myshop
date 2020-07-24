@@ -14,7 +14,7 @@ class PluginsTableSeeder extends Seeder
         DB::table('plugins')->insert([
             'name'    => 'Sample',
             'plugin_version'    => '0.0.1',
-            'plugin_author'    => 'acev',
+            'plugin_author'    => 'jordanye0',
             'plugin_support_email'    => 'test@example.com',
             'plugin_description'    => 'The sample plugin for shop',
             'plugin_table'    => '',
@@ -25,7 +25,7 @@ class PluginsTableSeeder extends Seeder
         DB::table('plugins')->insert([
             'name'    => 'Test',
             'plugin_version'    => '0.0.1',
-            'plugin_author'    => 'acev',
+            'plugin_author'    => 'jordanye0',
             'plugin_support_email'    => 'test@example.com',
             'plugin_description'    => 'The test plugin for shop',
             'plugin_table'    => '',
@@ -36,7 +36,7 @@ class PluginsTableSeeder extends Seeder
         DB::table('plugins')->insert([
             'name'    => 'ProcessOrder',
             'plugin_version'    => '0.0.1',
-            'plugin_author'    => 'acev',
+            'plugin_author'    => 'jordanye0',
             'plugin_support_email'    => 'test@example.com',
             'plugin_description'    => 'Process order plugin',
             'plugin_table'    => '',

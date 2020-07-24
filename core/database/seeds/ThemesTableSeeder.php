@@ -15,7 +15,7 @@ class ThemesTableSeeder extends Seeder
             'name'    => 'default',
             'theme_version'    => '0.3',
             'theme_description'    => 'Vue based theme for FlyMyShop',
-            'theme_author'    => 'acev',
+            'theme_author'    => 'jordanye0',
             'status'    => 1,
         ]);
 
@@ -23,7 +23,7 @@ class ThemesTableSeeder extends Seeder
             'name'    => 'vue',
             'theme_version'    => '0.1',
             'theme_description'    => 'The default theme for FlyMyShop',
-            'theme_author'    => 'acev',
+            'theme_author'    => 'jordanye0',
             'status'    => 1,
         ]);
     }
