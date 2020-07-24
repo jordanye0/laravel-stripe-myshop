@@ -13,9 +13,9 @@ use Illuminate\Support\Facades\Auth;
  * @category AppControllers
  *
  * @author jordanye0 <jordanyeo.work@gmail.com>
- * @license https://github.com/aasisvinayak/flymyshop/blob/master/LICENSE  GPL-3.0
+ * @license https://github.com/jordanye0/flymyshop/blob/master/LICENSE  GPL-3.0
  *
- * @link https://github.com/aasisvinayak/flymyshop
+ * @link https://github.com/jordanye0/flymyshop
  */
 final class OrderController extends Controller
 {

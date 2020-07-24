@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/aasisvinayak/flymyshop.svg?branch=master)](https://travis-ci.org/aasisvinayak/flymyshop)
-[![Latest Stable Version](https://poser.pugx.org/aasisvinayak/shop/v/stable)](https://packagist.org/packages/aasisvinayak/shop)
-[![License](https://poser.pugx.org/aasisvinayak/shop/license)](https://packagist.org/packages/aasisvinayak/shop)
+[![Build Status](https://travis-ci.org/jordanye0/flymyshop.svg?branch=master)](https://travis-ci.org/jordanye0/flymyshop)
+[![Latest Stable Version](https://poser.pugx.org/jordanye0/shop/v/stable)](https://packagist.org/packages/jordanye0/shop)
+[![License](https://poser.pugx.org/jordanye0/shop/license)](https://packagist.org/packages/jordanye0/shop)
 [![StyleCI](https://styleci.io/repos/66875598/shield)](https://styleci.io/repos/66875598)
-[![Total Downloads](https://poser.pugx.org/aasisvinayak/shop/d/total.svg)](https://packagist.org/packages/aasisvinayak/shop)
+[![Total Downloads](https://poser.pugx.org/jordanye0/shop/d/total.svg)](https://packagist.org/packages/jordanye0/shop)
 
 
 # FlyMyShop
@@ -44,7 +44,7 @@ Documentation for the FlyMyShop can be found on the [official website](https://f
 
 Please follow the steps below to install FlyMyShop on your web server
 
-a. Download [this zip](https://github.com/aasisvinayak/flymyshop/releases/download/v0.0.3/flymyshop-v0.0.3.zip) file
+a. Download [this zip](https://github.com/jordanye0/flymyshop/releases/download/v0.0.3/flymyshop-v0.0.3.zip) file
 b. Unzip and upload to your server
 c. Visit the public folder
 d. Follow the instructions
@@ -74,14 +74,14 @@ Download the release and follow the steps below:
 b. Using Composer
 
 ```
-composer create-project --prefer-dist aasisvinayak/shop
+composer create-project --prefer-dist jordanye0/shop
 
 ```
 
 c. Docker
 
 ```
-docker pull aasisvinayak/flymyshop
+docker pull jordanye0/flymyshop
 ```
 
 Please make sure that Apache is running in your docker container if the shop fails to load.
@@ -148,4 +148,4 @@ Demo (coming soon)
 
 #Contributors
 
-[Aasis Vinayak (jordanye0)](https://aasisvinayak.com)
+[Aasis Vinayak (jordanye0)](https://jordanye0.com)

@@ -23,7 +23,7 @@
 
     <div class="form-group">
         {{Form::label('url',"Enter GitHub Plugin Project URL")}}
-        {{Form::text('url',old('url'),array('class'=>'form-control', 'placeholder'=>'https://github.com/aasisvinayak/fms_promo_code_plugin'))}}
+        {{Form::text('url',old('url'),array('class'=>'form-control', 'placeholder'=>'https://github.com/jordanye0/fms_promo_code_plugin'))}}
     </div>
 
     <div class="form-group">

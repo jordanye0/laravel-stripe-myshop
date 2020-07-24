@@ -15,7 +15,7 @@
 
     <div class="form-group">
         {{Form::label('url',"Enter GitHub ".$type." Project URL")}}
-        {{Form::text('url',old('url'),array('class'=>'form-control', 'placeholder'=>'https://github.com/aasisvinayak/'.$sample))}}
+        {{Form::text('url',old('url'),array('class'=>'form-control', 'placeholder'=>'https://github.com/jordanye0/'.$sample))}}
     </div>
 
     <div class="form-group">
