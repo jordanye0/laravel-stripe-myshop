@@ -2,7 +2,7 @@
 
 A free open source e-commerce platform for online merchants based on customised version of Laravel.
 
-!(/thumbnail.png)
+![FlyMyShop Demo](/thumbnail.png)
 
 # Overview
 
