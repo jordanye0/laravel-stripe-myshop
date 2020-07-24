@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER acev <aasisvinayak@gmail.com>
+MAINTAINER jordanye0 <jordanyeo.work@gmail.com>
 
 RUN apt-get update && apt-get install -y \
 apache2-bin \
